@@ -27,6 +27,8 @@
 * 学习参考资料: https://cytoscape.org/
 
   [Cytoscape十讲之下载安装及使用](https://mp.weixin.qq.com/s/vEAt1Ioww4we22G7-I5XvA)
+  [Dash Cytoscape 发布](https://medium.com/@plotlygraphs/introducing-dash-cytoscape-ce96cac824e4)
+  [Dash Cytoscape 文档](https://dash.plot.ly/cytoscape)
 
 #### 3)Co-expression Network(WGCNA)
 * 负责人:诺琪
