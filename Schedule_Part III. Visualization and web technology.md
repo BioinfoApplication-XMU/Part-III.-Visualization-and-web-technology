@@ -1,4 +1,4 @@
-# PPart III. Visualization and web technology
+# Part III. Visualization and web technology
 ###### --本部分主要掌握科研数据绘图可视化与网站搭建基本技术
 
 ###### --学习资料搜索(Google;Wikipedia;知乎;简书;公众号)
